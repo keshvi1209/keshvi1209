@@ -35,7 +35,7 @@
 ## About
 
 ```
-B.Tech Computer Science & Engineering — IIIT Raichur (2023–2027)   CGPA: 8.2 / 10
+B.Tech Computer Science & Engineering — IIIT Raichur (2023–2027)  
 ```
 
 Full-stack developer with a focus on building reliable, scalable web systems. I work across the
@@ -90,15 +90,6 @@ accessible frontends. I care about clean architecture, thoughtful UX, and code t
 
 ---
 
-### PII Redaction App &nbsp;·&nbsp; `Flutter` `Dart` `Python` `MongoDB`
-> ML-powered app to detect and redact Personally Identifiable Information from documents.
-
-- Supports PDFs, Word files, images, and plain text
-- Python-based redaction algorithms with automated sensitive data masking
-- Secure backend data handling with MongoDB
-
----
-
 ## GitHub Stats
 
 <div align="center">
@@ -110,16 +101,6 @@ accessible frontends. I care about clean architecture, thoughtful UX, and code t
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshviagarwal2004&theme=solarized-light&hide_border=true&ring=B8860B&fire=D4AF37&currStreakLabel=8B6914" height="160" />
 </div>
-
----
-
-## Positions of Responsibility
-
-| Role | Organisation | Period |
-|---|---|---|
-| Sponsor Lead | E-Cell, IIIT Raichur | Oct 2024 – Nov 2025 |
-| Event Manager | Finspiration Club | Oct 2024 – Nov 2025 |
-| Frontend Developer | IIIT Raichur NSS Club | Dec 2024 – Feb 2025 |
 
 ---
 
