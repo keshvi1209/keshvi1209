@@ -1,57 +1,102 @@
-# Hi, I'm Keshvi 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Keshvi%20Agarwal&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-**Full Stack Developer · NLP Enthusiast · Open to Internships**
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Backend+%26+API+Architect;Real-Time+Systems+Builder;350%2B+DSA+Problems+Solved;Crafting+Scalable+Web+Experiences" alt="Typing SVG" />
 
----
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=keshviagarwal2004&label=Profile+Views&color=6C63FF&style=flat-square" alt="keshviagarwal2004" />
+  </p>
 
-### About me
-
-Pre-final year CSE student at IIIT Raichur. I build full-stack web applications across the MERN stack and am currently exploring Natural Language Processing and machine learning. I take DSA seriously — 350+ problems solved on LeetCode.
-
----
-
-### Tech stack
-
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)
-
-**Languages & Tools**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+  <p align="center">
+    <b>Building scalable backends, real-time systems & elegant frontends</b><br>
+    <i>B.Tech Computer Science @ IIIT Raichur </i>
+  </p>
+</div>
 
 ---
 
-### Currently
+### 🧠 The Core Workspace
 
-- Exploring NLP and machine learning
-- Part of Infosys Springboard Pragati: Path to Future — Cohort 8
-- Open to internships in full-stack development or ML
-
----
-
-### GitHub stats
-
-![Keshvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshviagarwal&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshviagarwal&layout=compact&theme=github_dark&hide_border=true)
+- 🔧 **Full-Stack Engineering:** Crafting end-to-end platforms with **MERN Stack, Next.js, and RESTful APIs** — from auth flows to real-time features.
+- ⚡ **Real-Time Systems:** Implementing **WebSockets** for live messaging, seat availability, and instant notifications.
+- 🔐 **Security & Privacy:** Built ML-powered **PII Redaction** systems and **XOR-based cryptographic** image sharing tools.
+- 🎯 **DSA Proficiency:** Solved **350+ problems** on LeetCode covering Graphs, DP, Trees, and Binary Search.
 
 ---
 
-### Connect
+### 🛠️ Technical Ecosystem
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/keshviagarwal)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/keshviagarwal)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:keshviagarwal2004@gmail.com)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,python,flask,flutter,js,ts,html,css,tailwind,git,figma,vercel,postman" />
+</div>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><b>Frontend Layer</b></td>
+    <td align="center" width="33%"><b>Backend Layer</b></td>
+    <td align="center" width="33%"><b>Tools & Platforms</b></td>
+  </tr>
+  <tr>
+    <td align="center"><i>React.js, Next.js, Tailwind CSS, Redux, Flutter</i></td>
+    <td align="center"><i>Node.js, Express.js, REST APIs, WebSockets, Flask</i></td>
+    <td align="center"><i>Git/GitHub, Vercel, Render, Postman, Figma</i></td>
+  </tr>
+</table>
+
+---
+
+### 🚀 High-Impact Repositories
+
+<div align="center">
+
+| Project | Core Focus | Technical Signal |
+| :--- | :--- | :--- |
+| [**SkillSwap**](#) | **Full-Stack Platform** | Skill-exchange app with Google OAuth, Calendar & Meet APIs, and real-time WebSocket chat. |
+| [**SeatSwap**](#) | **Real-Time App** | IRCTC seat-swapping platform with PNR verification, WebSockets & matchmaking algorithms. |
+| [**Color Visual Cryptography**](#) | **Security & Privacy** | XOR-based image encryption splitting RGB images into cryptographic shares with perfect secrecy. |
+| [**PII Redaction App**](#) | **ML + Mobile** | Flutter app using ML to auto-detect and redact sensitive data from PDFs, images & documents. |
+
+</div>
+
+---
+
+### 📊 Profile Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keshviagarwal2004&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Keshvi's Activity" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keshviagarwal2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Keshvi's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshviagarwal2004&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Keshvi's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshviagarwal2004&theme=tokyonight&hide_border=true" height="165" alt="Keshvi's Streak" />
+</p>
+
+---
+
+### 🌐 Profiles & Contacts
+
+<p align="center">
+  <a href="https://linkedin.com/in/keshvi-agarwal">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:keshviagarwal2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+<h4 align="center">"Real-time, secure, and scalable — that's the stack I build with." 🚀</h4>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
