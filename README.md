@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/LeetCode-B8860B?style=flat&logo=leetcode&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=keshviagarwal2004&label=Profile+Views&color=8B6914&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=keshvi1209&label=Profile+Views&color=8B6914&style=flat" />
 </div>
 
 ---
@@ -93,13 +93,13 @@ accessible frontends. I care about clean architecture, thoughtful UX, and code t
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshviagarwal2004&show_icons=true&theme=solarized-light&hide_border=true&count_private=true&title_color=8B6914&icon_color=B8860B&text_color=333333" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keshvi1209&show_icons=true&theme=solarized-light&hide_border=true&count_private=true&title_color=8B6914&icon_color=B8860B&text_color=333333" height="160" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshviagarwal2004&layout=compact&theme=solarized-light&hide_border=true&title_color=8B6914&text_color=333333" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshvi1209&layout=compact&theme=solarized-light&hide_border=true&title_color=8B6914&text_color=333333" height="160" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshviagarwal2004&theme=solarized-light&hide_border=true&ring=B8860B&fire=D4AF37&currStreakLabel=8B6914" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshvi1209&theme=solarized-light&hide_border=true&ring=B8860B&fire=D4AF37&currStreakLabel=8B6914" height="160" />
 </div>
 
 ---
