@@ -4,11 +4,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=500&size=22&pause=1200&color=8B6914&center=true&vCenter=true&width=560&lines=Scalable+Backend+%26+Modern+Frontend;Real-Time+Systems+%7C+WebSockets;REST+APIs+%7C+MERN+Stack;350%2B+DSA+Problems+on+LeetCode;IIIT+Raichur+%E2%80%94+Class+of+2027" alt="Typing SVG" />
-</div>
 
-<br/>
 
 <div align="center">
   <a href="https://linkedin.com/in/keshvi-agarwal">
