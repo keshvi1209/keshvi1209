@@ -1,6 +1,16 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=B8860B,8B6914,D4AF37&height=180&section=header&text=Keshvi%20Agarwal&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20Real-Time%20Systems&descSize=18&descAlignY=72&descColor=F5E6C8" width="100%"/>
-</div>
+</div> -->
+
+### About Me
+
+I'm a CS undergrad at **IIIT Raichur** who builds full-stack systems that solve coordination problems — matching people, syncing real-time state, and moving data securely between services. I work comfortably across the stack: designing REST APIs, wiring up WebSocket-driven live features, integrating third-party auth and calendar systems, and building the React/Next.js frontends that sit on top of all of it.
+
+- 🎓 **B.Tech, Computer Science & Engineering** — IIIT Raichur (2023 – 2027)
+- 🔭 **Currently building:** real-time matchmaking and scheduling features using WebSockets and the Google Calendar/Meet APIs
+- 🌱 **Currently learning:** system design and scalable backend architecture
+- 💬 **Ask me about:** REST API design, MERN stack, real-time app architecture
+- ⚡ **Fun fact:** I'd rather debug a race condition than write the same CRUD endpoint twice
 
 <p align="center">
   <a href="https://linkedin.com/in/keshvi-agarwal">
@@ -19,18 +29,6 @@
     <img src="https://img.shields.io/badge/Resume-8B6914?style=flat-square&logo=readdotcv&logoColor=white" />
   </a>
 </p>
-
----
-
-### About Me
-
-I'm a CS undergrad at **IIIT Raichur** who builds full-stack systems that solve coordination problems — matching people, syncing real-time state, and moving data securely between services. I work comfortably across the stack: designing REST APIs, wiring up WebSocket-driven live features, integrating third-party auth and calendar systems, and building the React/Next.js frontends that sit on top of all of it.
-
-- 🎓 **B.Tech, Computer Science & Engineering** — IIIT Raichur (2023 – 2027)
-- 🔭 **Currently building:** real-time matchmaking and scheduling features using WebSockets and the Google Calendar/Meet APIs
-- 🌱 **Currently learning:** system design and scalable backend architecture
-- 💬 **Ask me about:** REST API design, MERN stack, real-time app architecture
-- ⚡ **Fun fact:** I'd rather debug a race condition than write the same CRUD endpoint twice
 
 ---
 
@@ -139,10 +137,10 @@ I'm a CS undergrad at **IIIT Raichur** who builds full-stack systems that solve 
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <i>Precision in code. Clarity in design. Purpose in every feature built.</i>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=B8860B,8B6914,D4AF37&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=B8860B,8B6914,D4AF37&height=80&section=footer" width="100%"/> -->
